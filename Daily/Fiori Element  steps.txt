@@ -1,0 +1,15 @@
+Developer playground:
+1.  Registering Odata - odata login es5 - Install JSON Formatter/ JSON Viewer plugin
+https://sapes5.sapdevcenter.com/sap/opu/odata/iwbep/GWSAMPLE_BASIC/
+P1942320873
+fiori@###
+
+2.Add OData in Destination- SAP BTP Cockpit/ Cloud Platform- https://cockpit.eu10.hana.ondemand.com/trial/#/home/trial
+3. Sample Apps - Fiori Launcpad https://sapes5.sapdevcenter.com/sap/bc/ui5_ui5/ui2/ushell/shells/abap/FioriLaunchpad.html#Shell-home
+
+4. Build a Fiori Element app using - ES5 service
+
+5. Store Git hub credentials -
+machine github.com
+login ramana24
+password <token>

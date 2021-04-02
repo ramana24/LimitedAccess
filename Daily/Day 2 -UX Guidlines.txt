@@ -1,0 +1,19 @@
+User Experience Guidelines- How to build SAP Fiori Apps for Custom APps?
+https://experience.sap.com/fiori-design/
+
+Which Stable UI5 Version ? 
+
+https://sapui5.hana.ondemand.com/versionoverview.html
+
+Prototyping:Wireframing
+
+https://www.build.me/
+
+
+HTML- 1 Day
+CSS - 1 DAY
+js - 1 Day
+
+UI5 - 1 Day
+
+Major Project - 1 Day

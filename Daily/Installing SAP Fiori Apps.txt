@@ -1,0 +1,48 @@
+1. Identify relevant for client- https://fioriappslibrary.hana.ondemand.com/sap/fix/externalViewer/
+
+2. S/4 Hana - SAP Product - 80% onpremise [SAP Business Suite / SAP ERP (R/3) - Oracle] - Cloud- New Products
+
+
+3. Timesheet- To install , ensure to check product version and software component both FES/BES
+   configure-  sicf tcode- find the application to activate. FES
+
+   odata service- find the service in BES- sicf tcode [could' find it- need to contact basis]
+
+   iwfnd/maint_service - to manage all odata services
+
+//  App ready to view and use in FLP - fiori launchpad
+
+
+Central HUB - How to  Configuration Fiori Apps/ Custom Apps in Central Hub ? -> if we do all activites in same system -> Embeded hub
+
+4. Alternate app - custom ui5  UI5 App- zspeclist
+Odata service name- ZPLM_PCN_SPEC_LIST_SRV
+iwfnd/maint_service - search - add service
+
+5. To make more secure- we register odata service in FES- using System Alias we will connect to remote function call-> BES
+
+
+
+FES- Zspec
+FES Gateway- specl list - 10 fields
+
+
+
+BES -> Table -> OData serrive - 10 fields
+
+How to practice 
+
+6.  GUI -> Server Embeded Hub-> https://sapes5.sapdevcenter.com/sap/bc/gui/sap/its/webgui?sap-client=002&sap-language=EN
+
+FLP - > https://sapes5.sapdevcenter.com/sap/bc/ui5_ui5/ui2/ushell/shells/abap/FioriLaunchpad.html#Shell-home
+
+OData Service- SEPMRA_PROD_MAN-> https://sapes5.sapdevcenter.com/sap/opu/odata/sap/SEPMRA_PROD_MAN/$batch?sap-client=002
+
+UI5 BSP APP name- zsample_prodman
+
+https://fioriappslibrary.hana.ondemand.com/sap/fix/externalViewer/
+
+Approve Purchase Order - reference- 
+
+
+WebIDE Native Hana- service- detailed MTA projects

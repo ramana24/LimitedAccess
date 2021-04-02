@@ -1,0 +1,32 @@
+
+1.Using CDN, develop ui5 apps using any ide.
+
+<script id="sap-ui-bootstrap"
+    type="text/javascript"
+    src="https://sapui5.hana.ondemand.com/<version>/resources/sap-ui-core.js"
+    data-sap-ui-theme="sap_belize"
+    data-sap-ui-libs="sap.m"></script>
+
+2. Using Eclipse, https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2020-12/R/eclipse-inst-jre-win64.exe
+
+1.60 - Fiori 2.0
+
+https://tools.hana.ondemand.com/ - All SAP Tools
+
+3. anything related to UI5 - refer documentation for official sap announcments
+
+4. OData-  https://register.sapdevcenter.com/SUPSignForms/
+UseriD: P1<XXXXXXX>
+
+5. SAP BAS / Viual Stuido 
+SAP Business Application Studio - https://account.hanatrial.ondemand.com/
+
+6. We have trial cloud foundry account/ SAP Cloud platform/ SAP BTP (Busines Technology Platform)
+
+API Endpoint for Cloud deployment
+https://api.cf.eu10.hana.ondemand.com
+
+7. Bookmark BAS Application - https://eec2f9f1trial.eu10cf.trial.applicationstudio.cloud.sap/index.html
+
+Tip: BASurl #<ID>  ws-6hbvm
+

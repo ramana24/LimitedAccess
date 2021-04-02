@@ -1,0 +1,29 @@
+Deploy Application to Cloud-
+
+1.Open Application Developer Guide to follow steps
+2.https://help.sap.com/  ->  Refer to SAP BAS help guide 
+3. UI5 tooling - https://sap.github.io/ui5-tooling/pages/CLI/
+
+Build Tool - > Helps to convert our project into deploying unit.
+
+Uglification()/ Minification(remove all white space) - performance improvements
+
+
+
+encode/decode-
+
+Add -> functionEncode(A,B) -> Bdd -> FunctionDecode(B,A) -> Add
+
+
+Componet-preload.js- >Minified file of our project 
+
+
+4. Select Project -> mta.yaml-> right click-> Build MTA Project 
+
+dist-> minified- 
+mta_archives-> for deploying to cloud -> mtar cloud
+
+
+5. Portal Service(Full Capabilits) vs Launchpad service (limited to Fiori Apps)->
+
+For exercise: Refer developer guide page 53. deploy to cloud. Use odata e5 service specific template

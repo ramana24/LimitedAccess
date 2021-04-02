@@ -1,0 +1,32 @@
+1. Securing fiori data as well as Apps.
+2. Client specic requirement - How to modify existing fiori apps?/ Custom apps
+3. How to depoly and create roles and manage for custom fiori apps?
+4. configuration - new fiori app how do install for specific customer?
+
+two approachs
+- onpremise- 80% configuration  applicable
+
+- cloud- SAP- nominal scope 
+
+~ optional [
+intranet/ private - private cloud - cost increase- hybrid cloud [Azure/AWS/Google Cloud/IBM Cloud] ~ cost optimization
+
+Accenture Cloud -> public cloud- single server  reliance , tata.]
+
+
+
+Fiori launchpad - central place to access all SAP business apps
+
+
+
+1. First step is to create a new launchpad.
+
+On premise- LPD_CUST // to create a laucnchpad instance
+
+Cloud - Portal service // to create a laucnhpad instance
+
+2. Create app - fiori element -> https://github.com/ramana24/fiorielement.git
+3. Lets deoploy on to Lunchpad instance.
+
+Configure launchpad instance -> https://help.sap.com/viewer/8c8e1958338140699bd4811b37b82ece/Cloud/en-US/fd79b232967545569d1ae4d8f691016b.html
+

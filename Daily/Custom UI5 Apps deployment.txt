@@ -1,0 +1,7 @@
+1. Creating a launchpad instance- LPD_CUST
+2. Dedicated tool to manage launchpad- LPD designer.
+
+
+URL to open LPD Designer : <FES server>/sap/bc/ui5_ui5/sap/arsrvc_upb_admn/main.html - europe
+
+ES5 ->https://sapes5.sapdevcenter.com/sap/bc/ui5_ui5/sap/arsrvc_upb_admn/main.html

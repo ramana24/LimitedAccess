@@ -1,0 +1,41 @@
+1/html vs xml: w3
+
+<html></html>
+<p></p>
+
+
+xml:
+
+Custom Controls- JavaScript- 850 plus controls
+<HoverButton></HoverButton>
+
+
+SAP:UI5  UX guidlines
+
+<Button></Button>
+<SegmentButton></SegmentButton>
+
+
+2. Life Cycle Methods:
+
+
+oninit(); // start method
+onBeforeRendering();// before page loads
+onAfterRendering();// after page loads
+onExit();// post app exit
+
+
+sum(); // custom user defined
+
+3. manifest.json -// ensure to use unique id for each project - to allow runtime understand which project to refer
+4. Lets build a mvc project- login page
+https://sapes5.sapdevcenter.com/sap/opu/odata/iwbep/GWSAMPLE_BASIC/
+
+5. Use the repository for login page exercise- https://github.com/ramana24/loginpage.git
+
+
+
+
+
+
+

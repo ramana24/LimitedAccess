@@ -1,0 +1,7 @@
+1. open SAP - CAP - Cloud Application/ Rest Application programming [OData service- generate/ segw tcode SAP GUI]
+
+2. Padding classes/ Margin Classes -https://sapui5.hana.ondemand.com/1.36.6/docs/guide/c71f6df62dae47ca8284310a6f5fc80a.html
+   https://help.sap.com/saphelp_uiaddon10/helpdata/en/77/7168ffe8324873973151dae2356d1c/content.htm?no_cache=true
+
+
+

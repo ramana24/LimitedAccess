@@ -1,0 +1,27 @@
+API reference-
+https://ui5.sap.com/
+
+oData.org - 
+
+Demo oData service
+https://services.odata.org/V2/Northwind/Northwind.svc/
+
+
+oData $filter commands
+https://www.odata.org/documentation/odata-version-2-0/uri-conventions/
+
+
+Tools:
+Step 1:
+Node.js
+Visual Stuido- node -v
+
+install Fiori tools - extension
+
+command palatte - ctrl+shift+P - open Application generator -> SAP UI5 Freestyle- SAP UI5  App
+
+Add - <Text text="Lets learn UI5"> </Text>
+
+
+ Step 2: SAP.com - create SAP Account
+https://account.hana.ondemand.com/#/home/welcome

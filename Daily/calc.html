@@ -1,0 +1,76 @@
+<html>
+<head>
+<style>
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+.calculator {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 400px;
+}
+.calculator-screen {
+  width: 100%;
+  font-size: 5rem;
+  height: 80px;
+  border: none;
+  background-color: #252525;
+  color: #fff;
+  text-align: right;
+  padding-right: 20px;
+  padding-left: 10px;
+}
+.calculator-keys {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+grid-gap: 20px;
+  padding: 20px;
+}
+
+</style>
+</head>
+
+<body>
+<div class="calculator">
+ <input type="text" class="calculator-screen" value="0" disabled />
+
+  <div class="calculator-keys">
+<button type="button" class="operator" value="+">+</button>
+    <button type="button" class="operator" value="-">-</button>
+    <button type="button" class="operator" value="*">&times;</button>
+    <button type="button" class="operator" value="/">&divide;</button>
+
+    <button type="button" value="7">7</button>
+    <button type="button" value="8">8</button>
+    <button type="button" value="9">9</button>
+
+
+    <button type="button" value="4">4</button>
+    <button type="button" value="5">5</button>
+    <button type="button" value="6">6</button>
+
+
+    <button type="button" value="1">1</button>
+    <button type="button" value="2">2</button>
+    <button type="button" value="3">3</button>
+
+
+    <button type="button" value="0">0</button>
+    <button type="button" class="decimal" value=".">.</button>
+    <button type="button" class="all-clear" value="all-clear">Clear</button>
+
+    <button type="button" class="equal-sign" value="=">Output</button>
+</div>
+</div>
+</body>
+</html>

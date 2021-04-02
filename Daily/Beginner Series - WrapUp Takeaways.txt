@@ -1,0 +1,38 @@
+Key Takeaways:
+1. You can build your own Portfolio Simple Website- hashnode/wordpress/blogger.
+2. HTML/CSS/ Javascript- Main foucs should be on Javascript. Know as may methods as .
+barcode
+
+
+Input- id -> value1, value2 ... N-> custid - 12345
+
+| baackend call- table 12345 -> customer details
+
+
+Customer Details Function(A,B,C.....N) // takes input as custid and outputs customer details
+
+
+|
+
+Out put -> setValue- >  customer details
+
+3. Fori Launahpad - https://sapes5.sapdevcenter.com/sap/bc/ui5_ui5/ui2/ushell/shells/abap/FioriLaunchpad.html#Shell-home
+
+
+
+10 functions- 3 critical
+
+
+onInit -  ist function - odata call
+
+Table Table- 2nd function-
+
+
+4. HackerRank/ Project Euler/ Kattis(SAP Labs- Interview problems)- master javascript
+5.https://developers.sap.com/tutorial-navigator.html?tag=topic:sapui5- SAP Developer Forum
+
+6. Document each logic-  and save as reusable code-
+
+7. SAP UI5 WebComponents- allows angular js developer use ui5 controls
+8. SAP ERP -old version  2030 extended valdity.. S/4 Hana - new product - UI5 is being used for most usecases
+
